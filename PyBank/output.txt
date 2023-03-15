@@ -1,0 +1,7 @@
+Financial Analysis
+----------------------------
+Total Months: 86
+total: 38382578
+average: -2315.12
+total: 1926159
+total: -2196167
